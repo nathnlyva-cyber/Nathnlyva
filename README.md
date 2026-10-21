@@ -6,6 +6,7 @@
     <title>CALCUTE</title>
     <link rel="stylesheet" href="index.css">
 </head>
+    <link rel="stylesheet" href="Index.css">
 <body>
     <div id="calc_box">
         <input type="text" id="display_screen" readonly>
